@@ -1,8 +1,3 @@
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--              HERACHXX // ARUZHAN MARATOVA                  -->
-<!--                   GITHUB PROFILE README                     -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
 ```
@@ -16,8 +11,8 @@
  ░▒▓█   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   █▓▒░
  ░▒▓█                                                      █▓▒░
  ░▒▓█        [ IDENTITY: herachxx ]  [ STATUS: ONLINE ]    █▓▒░
- ░▒▓█        [ ROLE: Aspiring Ethical Hacker & Builder ]   █▓▒░
- ░▒▓█        [ LOCATION: Aktobe, Kazakhstan 🇰🇿  UTC+5 ]    █▓▒░
+ ░▒▓█        [ ROLE: aspiring ethical hacker]              █▓▒░
+ ░▒▓█        [ LOCATION: Aktobe, Kazakhstan |UTC+5 ]       █▓▒░
  ░▒▓████████████████████████████████████████████████████████▓▒░
 ```
 
@@ -25,7 +20,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=boot+sequence+complete.+welcome+%F0%9F%91%BE;%24+whoami+--+Aruzhan+Maratova+%2F+herachxx;aspiring+ethical+hacker+%7C+CTF+player+%F0%9F%9A%A9;NSRI+Director+%7C+AIS+10th+Grade+%7C+GPA+4.7%2F5;target%3A+MIT+2027+%F0%9F%8E%AF+%7C+Cybersecurity;vibe+coder+%F0%9F%92%A9+%E2%80%94+the+steppe+breeds+hackers;currently+breaking+%26+building+things+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=boot+sequence+complete.+welcome+%F0%9F%91%BE;%24+whoami+--+Aruzhan+Maratova+%2F+herachxx;aspiring+ethical+hacker+%7C+CTF+player;Director+At+NSRI+%7C+AIS+10th+Grade+%7C+GPA+4.7%2F5;vibe+coder+%F0%9F%92%A9+%E2%80%94+the+steppe+breeds+hackers;currently+breaking+%26+building+things+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
