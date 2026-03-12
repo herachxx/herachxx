@@ -145,7 +145,7 @@
   <g font-family="'Courier New',Courier,monospace" font-size="11.5" filter="url(#glow-sm)">
 
     <text x="110" y="118" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ role      </tspan><tspan fill="#00ffaa">Aspiring Ethical Hacker · NSRI Director</tspan>
+      <tspan fill="#2a5a2a">▸ role      </tspan><tspan fill="#00ffaa">Ethical Hacker · NSRI Director</tspan>
       <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1;0.2;1" dur="4s" fill="freeze"/>
     </text>
 
@@ -155,7 +155,7 @@
     </text>
 
     <text x="110" y="154" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ school    </tspan><tspan fill="#00ffaa">AIS · Grade 10 · GPA 4.7/5 · 2027</tspan>
+      <tspan fill="#2a5a2a">▸ school    </tspan><tspan fill="#00ffaa">AIS · 10th grade · GPA 4.7/5 · 2027</tspan>
       <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.2;0.3;0.4;0.5;1" dur="4s" fill="freeze"/>
     </text>
 
@@ -165,7 +165,7 @@
     </text>
 
     <text x="110" y="190" fill="#00ff41" filter="url(#glow)">
-      <tspan fill="#2a5a2a">▸ target    </tspan><tspan fill="#00ff41">MIT — Cybersecurity — 2027 </tspan>
+      <tspan fill="#2a5a2a">▸ target    </tspan><tspan fill="#00ff41">MIT - cybersecurity - 2027 </tspan>
       <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="4s" fill="freeze"/>
     </text>
 
@@ -188,15 +188,15 @@
     <rect x="590" y="96" height="7" fill="#00ff41" rx="2">
       <animate attributeName="width" from="0" to="161" dur="1.8s" begin="0.4s" fill="freeze"/>
     </rect>
-    <text x="828" y="104" fill="#00ff41" text-anchor="end" font-size="9">70%</text>
+    <text x="828" y="104" fill="#00ff41" text-anchor="end" font-size="9">80%</text>
 
     <!-- COMP PROGRAMMING -->
-    <text x="590" y="118" fill="#3a7a3a">COMP PROGRAMMING</text>
+    <text x="590" y="118" fill="#3a7a3a">COMPETITIVE PROGRAMMING</text>
     <rect x="590" y="122" width="230" height="7" fill="#010f04" rx="2"/>
     <rect x="590" y="122" height="7" fill="#00dd33" rx="2">
       <animate attributeName="width" from="0" to="184" dur="1.8s" begin="0.7s" fill="freeze"/>
     </rect>
-    <text x="828" y="130" fill="#00dd33" text-anchor="end" font-size="9">80%</text>
+    <text x="828" y="130" fill="#00dd33" text-anchor="end" font-size="9">60%</text>
 
     <!-- MATHEMATICS -->
     <text x="590" y="144" fill="#3a7a3a">MATHEMATICS</text>
@@ -212,7 +212,7 @@
     <rect x="590" y="174" height="7" fill="#009911" rx="2">
       <animate attributeName="width" from="0" to="172" dur="1.8s" begin="1.3s" fill="freeze"/>
     </rect>
-    <text x="828" y="182" fill="#009911" text-anchor="end" font-size="9">75%</text>
+    <text x="828" y="182" fill="#009911" text-anchor="end" font-size="9">90%</text>
 
     <!-- ELECTRONICS -->
     <text x="590" y="196" fill="#3a7a3a">ELECTRONICS / HW</text>
