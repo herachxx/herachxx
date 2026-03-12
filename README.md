@@ -207,23 +207,23 @@ PID    USER      %CPU  %MEM  PROCESS
 ║  ACHIEVEMENTS & ROLES UNLOCKED                                       ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  🏛️  [ROLE]  NSRI Director                                           ║
+║  [ROLE]  NSRI Director                                           ║
 ║              National Students Research Institute                    ║
 ║              Promoted: School Ambassador → Director                  ║
 ║                                                                      ║
-║  🚁  [COMP]  Drone Racing Simulations                                ║
+║  [COMP]  Drone Racing Simulations                                ║
 ║              DCL: The Game | LiftOff Simulator                       ║
 ║                                                                      ║
-║  💻  [COMP]  Programming Olympiads (Multiple)                        ║
+║  [COMP]  Programming Olympiads (Multiple)                        ║
 ║              Languages: Python, C++                                  ║
 ║                                                                      ║
-║  🤖  [COMP]  Robotics Competitions                                   ║
+║  [COMP]  Robotics Competitions                                   ║
 ║              LEGO EV3 | Spike Prime | WEDO 2.0                       ║
 ║                                                                      ║
-║  🏆  [ACAD]  International Scholars Research Competition             ║
+║  [ACAD]  International Scholars Research Competition             ║
 ║              Global platform for outstanding student scholarship     ║
 ║                                                                      ║
-║  📊  [ACAD]  GPA: 4.7 / 5.00  ████████████████████░  Top Student     ║
+║  [ACAD]  GPA: 4.7 / 5.00  ████████████████████░  Top Student     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -281,42 +281,6 @@ drwxr-xr-x  herachxx  Aruzhan-Maratova/
 
 ---
 
-## `$ cat manifesto.txt`
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│  I'm 16. I live in Aktobe, Kazakhstan.                             │
-│  I go to AIS. I want to get into MIT.                              │
-│  And I'm building my way there, one commit at a time.              │
-│                                                                    │
-│  I believe: the best hackers aren't criminals —                    │
-│  they're the ones who understand systems so deeply                 │
-│  that they can protect them. I want to be that person.             │
-│                                                                    │
-│  My weapons of choice:                                             │
-│  → A keyboard and terminal that never sleeps.                      │
-│  → Curiosity that doesn't quit.                                    │
-│  → A Raspberry Pi that runs Kali at 2AM.                           │
-│  → A drone that goes where I point it.                             │
-│  → Hands that can solder, juggle, and pick locks.                  │
-│                                                                    │
-│  I don't wait for permission to learn.                             │
-│  I don't wait for the right moment to build.                       │
-│  I don't wait, period.                                             │
-│                                                                    │
-│  The Steppe is wide. My ambitions are wider.                       │
-│  MIT — I'm coming. Don't close the door.                           │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## `$ ping aruzhan --connect`
 
 <div align="center">
@@ -327,8 +291,6 @@ drwxr-xr-x  herachxx  Aruzhan-Maratova/
 
 </div>
 
-<div align="center">
-
 ```
 PING herachxx... response received ✓
 
@@ -337,8 +299,6 @@ Open to:  collaboration · CTF teams · research projects
 
 Response time: usually < 24h  |  Timezone: UTC+5 (Aktobe, Kazakhstan)
 ```
-
-</div>
 
 ---
 
@@ -367,6 +327,10 @@ Response time: usually < 24h  |  Timezone: UTC+5 (Aktobe, Kazakhstan)
  ║                                                              ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=herachxx&color=00FF41&style=for-the-badge&label=VISITORS+LOGGED)
 
