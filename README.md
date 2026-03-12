@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/herachxx/banner.svg" width="100%" alt="herachxx — Aruzhan Maratova"/>
+  <img src="herachxx/banner.svg" width="100%" alt="herachxx — Aruzhan Maratova"/>
 </div>
 
 <div align="center">
