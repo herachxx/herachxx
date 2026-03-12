@@ -51,14 +51,13 @@ langs    : Kazakh (native) · Russian · English
 
 ### [ CYBERSECURITY & NETWORKING ]
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=00FF41)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF41)
+![Tails OS](https://img.shields.io/badge/Tails_OS-0D1117?style=for-the-badge&logo=tails&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
-![Whonix](https://img.shields.io/badge/Whonix-0D1117?style=for-the-badge&logo=whonix&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41)
-![Tails OS](https://img.shields.io/badge/Tails_OS-0D1117?style=for-the-badge&logo=tails&logoColor=00FF41)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
 
 ---
