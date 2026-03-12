@@ -39,32 +39,37 @@ langs    : Kazakh (native) · Russian · English
 
 <div align="center">
 
-### [ LANGUAGES ]
+### [ DEVELOPMENT ]
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=00FF41)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=00FF41)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
 
-### [ HARDWARE & OS ]
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Raspberry Pi](https://img.shields.io/badge/RPi_4B-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
-![Raspberry Pi OS](https://img.shields.io/badge/RPi_OS-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF41)
-![Whonix](https://img.shields.io/badge/Whonix-0D1117?style=for-the-badge&logo=whonix&logoColor=00FF41)
-![Tails OS](https://img.shields.io/badge/Tails_OS-0D1117?style=for-the-badge&logo=tails&logoColor=00FF41)
-
-### [ CYBERSECURITY & ALGORITHMS ]
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+### [ CYBERSECURITY & NETWORKING ]
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=00FF41)
-![CTF Player](https://img.shields.io/badge/CTF_Player-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
+![Whonix](https://img.shields.io/badge/Whonix-0D1117?style=for-the-badge&logo=whonix&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41)
+![Tails OS](https://img.shields.io/badge/Tails_OS-0D1117?style=for-the-badge&logo=tails&logoColor=00FF41)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
+
+### [ HARDWARE & EMBEDDED ]
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
+![Raspberry Pi 4](https://img.shields.io/badge/RPi_4B-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
+![Soldering](https://img.shields.io/badge/Hardware-Soldering-0D1117?style=for-the-badge&logo=google-home&logoColor=00FF41)
+
+### [ COMPETITIVE ]
+![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41)
+![picoCTF](https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logo=ctfd&logoColor=00FF41)
+![Bandit](https://img.shields.io/badge/OTW_Bandit-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41)
 
 </div>
 
