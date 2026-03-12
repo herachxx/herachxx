@@ -154,7 +154,7 @@
     </text>
 
     <text x="110" y="174" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ school    </tspan><tspan fill="#00ffaa">AIS · 10th grade · GPA 4.7/5 · 2027</tspan>
+      <tspan fill="#2a5a2a">▸ school    </tspan><tspan fill="#00ffaa">AIS · 10th grade · GPA 4.7 · 2027</tspan>
       <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.2;0.3;0.4;0.5;1" dur="4s" fill="freeze"/>
     </text>
 
@@ -169,7 +169,7 @@
     </text>
 
     <text x="110" y="225" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ languages </tspan><tspan fill="#00ffaa">Kazakh · Russian · English</tspan>
+      <tspan fill="#2a5a2a">▸ languages </tspan><tspan fill="#00ffaa">English · Russian · Kazakh</tspan>
       <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1" keyTimes="0;0.35;0.45;0.55;0.65;0.75;0.85;0.9;1" dur="4s" fill="freeze"/>
     </text>
 
