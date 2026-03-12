@@ -84,8 +84,8 @@ langs    : Kazakh (native) · Russian · English
 ---
 
 ```
-cybersec · drones · competitive programming · electronics · robotics
-lockpicking · rubik's cube · juggling · ∑math · papercraft
+cybersec · drones · competitive programming · electronics
+robotics · lockpicking · rubik's cube · ∑math · papercraft
 ```
 <div align="center">
 
