@@ -123,5 +123,7 @@ robotics · lockpicking · rubik's cube · ∑math · papercraft
 ---
 <div align="center">
   Hey! I am glad you stopped by. Star something ⭐
-  --> [herachxx ♡](https://github.com/herachxx?tab=repositories)
+  --> <p align="center">
+<a href="https://github.com/herachxx?tab=repositories"><b>herachxx♡</b></a>
+</p>
 </div>
