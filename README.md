@@ -44,22 +44,30 @@ langs    : Kazakh (native) · Russian · English
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **[ HARDWARE & OS ]**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LinuxOS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-214387?style=for-the-badge&logo=virtualbox&logoColor=white)
+![RaspberryPiOS](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![TailsOS](https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![WhonixOS](https://img.shields.io/badge/Whonix-3D145C?style=for-the-badge&logo=whonix&logoColor=white)
+
 
 **[ CYBERSECURITY ]**
 
-![CTF](https://img.shields.io/badge/CTF_Player-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)
+![KaliOS](https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)
+[![CTF](https://img.shields.io/badge/CTF_Player-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)]
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
@@ -96,5 +104,5 @@ robotics · lockpicking · rubik's cube · ∑math · papercraft
 ---
 <div align="center">
   Hey! I am glad you stopped by. Star something ⭐
-  --> herachxx ♡
+  --> [herachxx ♡](https://github.com/herachxx?tab=repositories)
 </div>
