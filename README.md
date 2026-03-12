@@ -39,36 +39,32 @@ langs    : Kazakh (native) · Russian · English
 
 <div align="center">
 
-**[ LANGUAGES ]**
+### [ LANGUAGES ]
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=00FF41)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### [ HARDWARE & OS ]
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Raspberry Pi](https://img.shields.io/badge/RPi_4B-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
+![Raspberry Pi OS](https://img.shields.io/badge/RPi_OS-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF41)
+![Whonix](https://img.shields.io/badge/Whonix-0D1117?style=for-the-badge&logo=whonix&logoColor=00FF41)
+![Tails OS](https://img.shields.io/badge/Tails_OS-0D1117?style=for-the-badge&logo=tails&logoColor=00FF41)
 
-**[ HARDWARE & OS ]**
-
-![LinuxOS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-214387?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![TailsOS](https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-339933?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![WhonixOS](https://img.shields.io/badge/Whonix-3D145C?style=for-the-badge&logo=whonix&logoColor=white)
-
-
-**[ CYBERSECURITY ]**
-
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![KaliOS](https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)
-[![CTF](https://img.shields.io/badge/CTF_Player-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)]
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### [ CYBERSECURITY & ALGORITHMS ]
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=00FF41)
+![CTF Player](https://img.shields.io/badge/CTF_Player-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
 ![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
 
 </div>
 
