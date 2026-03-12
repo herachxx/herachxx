@@ -100,11 +100,19 @@ cybersec · drones · competitive programming · electronics
 robotics · lockpicking · rubik's cube · ∑math · papercraft
 ```
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruzhan-maratova-2797aa361)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herachxx/)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=herachxx&color=00FF41&style=for-the-badge&label=visitors)
+  
+### Connect with me!
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  </a>
+  <a href="https://www.instagram.com/herachxx/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/dynamic/json?label=VISITORS&query=value&url=https://api.countapi.xyz/hit/herachxx/visits&color=0D1117&labelColor=0D1117&style=for-the-badge&logo=eye&logoColor=00FF41" />
+</p>
 
 </div>
 
