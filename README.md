@@ -83,12 +83,11 @@ langs    : Kazakh (native) · Russian · English
 
 ---
 
+```
+cybersec · drones · competitive programming · electronics · robotics
+lockpicking · rubik's cube · juggling · ∑math · papercraft
+```
 <div align="center">
-
-```
-  cyber  ·  drones  ·  comp prog  ·  electronics  ·  robotics
-  lockpicking  ·  rubik's cube  ·  juggling  ·  ∑math  ·  papercraft
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruzhan-maratova-2797aa361)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herachxx/)
