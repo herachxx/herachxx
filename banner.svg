@@ -98,7 +98,7 @@
   <circle cx="40" cy="19" r="6" fill="#febc2e"/>
   <circle cx="60" cy="19" r="6" fill="#28c840"/>
   <!-- title -->
-  <text x="430" y="24" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3a5a3a">herachxx@aktobe - bash - 860×300</text>
+  <text x="430" y="24" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3a5a3a">herachxx@aktobe - bash -</text>
   <!-- status dot -->
   <circle cx="820" cy="19" r="4" fill="#00ff41">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
@@ -160,7 +160,7 @@
     </text>
 
     <text x="110" y="172" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ weapons   </tspan><tspan fill="#00ffaa">Python · C++ · Kali · Arduino · Lua</tspan>
+      <tspan fill="#2a5a2a">▸ weapons   </tspan><tspan fill="#00ffaa">Linux · C++ · Python · RaspberryPi</tspan>
       <animate attributeName="opacity" values="0;0;0;0;0;1;1" keyTimes="0;0.25;0.35;0.45;0.55;0.65;1" dur="4s" fill="freeze"/>
     </text>
 
