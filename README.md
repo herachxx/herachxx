@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=%5BACCESS+GRANTED%5D+welcome+to+my+terminal+%F0%9F%91%BE;ethical+hacker+in+training+%7C+CTF+player;drone+pilot+%7C+competitive+programmer+%7C+maker;16+y%2Fo+%C2%B7+Aktobe+Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF+%C2%B7+UTC%2B5;GPA+4.7%2F5.0+%E2%80%94+AIS+Class+of+2027;targeting+MIT+Cybersecurity+%F0%9F%8E%AF;lockpicker+%7C+speedcuber+%7C+juggler)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=%5BACCESS+GRANTED%5D+welcome+to+my+terminal+%F0%9F%91%BE;ethical+hacker+in+training+%7C+CTF+player;drone+pilot+%7C+competitive+programmer+%7C+maker;16+y%2Fo+%C2%B7+Aktobe+Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF+%C2%B7+UTC%2B5;AIS+Class+of+2027;targeting+MIT+Cybersecurity+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
