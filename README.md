@@ -26,10 +26,11 @@ gpa      : 4.7 / 5.0
 location : Aktobe, Kazakhstan 🇰🇿
 goal     : MIT · Cybersecurity
 roles    :
-  - Aspiring Ethical Hacker (CTF Player)
-  - NSRI Director
-  - Drone Pilot — DCL · LiftOff · Lua
-  - Competitive Programmer — Python · C++
+  - Aspiring ethical hacker, CTF player
+  - Director at NSRI (National Student Research Institute)
+  - Drone pilot (80+ flight hours) - DCL · LiftOff
+  - Drone programmer (automation of UAV systems) - Lua · SITL · MAVLink
+  - Competitive programmer - Python · C++
 subjects : Informatics · Mathematics
 langs    : Kazakh (native) · Russian · English
 ```
@@ -77,14 +78,6 @@ langs    : Kazakh (native) · Russian · English
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=herachxx&bg_color=0D1117&color=00FF41&line=00FF41&point=00ff99&area_color=001a08&area=true&hide_border=true&custom_title=herachxx%20%2F%2F%20commit%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=herachxx&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
