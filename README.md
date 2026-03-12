@@ -94,9 +94,9 @@ robotics · lockpicking · rubik's cube · ∑math · papercraft
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=herachxx&color=00FF41&style=for-the-badge&label=visitors)
 
+</div>
+
 ```
-  hey — glad you stopped by. star something. ⭐
+  hey — I am glad you stopped by. star something ⭐
   --> herachxx ♡
 ```
-
-</div>
