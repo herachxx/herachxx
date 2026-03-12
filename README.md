@@ -1,14 +1,5 @@
 <div align="center">
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█  herachxx@aktobe:~$ whoami                     █
-█  > Aruzhan Maratova · 16 · Kazakhstan 🇰🇿       █
-█  > AIS 10th grade · GPA 4.7/5 · Class of 2027  █
-█  > Aspiring ethical hacker · NSRI Director     █
-█  > Target: MIT — Cybersecurity                 █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ethical+hacker+in+training+%F0%9F%94%90;CTF+player+%7C+drone+pilot+%7C+comp+programmer;building+a+portfolio+strong+enough+for+MIT;from+the+Kazakh+Steppe+%E2%80%94+to+the+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
