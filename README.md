@@ -54,28 +54,27 @@ education:
 mission_objectives:
   - "IELTS ≥ 7.5       [ in progress... ]"
   - "SAT   ≥ 1500      [ in progress... ]"
-  - "Portfolio: STRONG  [ building...    ]"
+  - "Portfolio:        [ building...    ]"
 
 roles:
   - "NSRI Director (promoted from School Ambassador)"
-  - "CTF Player (beginner → leveling up)"
-  - "Competitive Programmer (Python, C++)"
+  - "CTF Player (level up everyday)"
+  - "Competitive Programmer (Python, C++, Kotlin)"
   - "Drone Operator (DCL, LiftOff)"
 
 specialized_subjects:
-  - "Informatics  ⚡"
-  - "Mathematics  ∑"
+  - "Informatics"
+  - "Mathematics ∑"
 
 languages:
   - "Kazakh  — Native 🇰🇿"
   - "Russian — Fluent  🇷🇺"
-  - "English — Fluent  🇬🇧"
+  - "English — Advanced  🇬🇧"
 
 fun_facts:
   - "I can pick locks. Legally. For sport."
   - "I juggle. Literally. And figuratively."
   - "My Rubik's cube fears me."
-  - "I've soldered more things than I've broken. Probably."
 ```
 
 ---
@@ -106,7 +105,7 @@ SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 
 <div align="center">
 
-**💻 Languages & Code**
+**Languages & Code**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -116,7 +115,9 @@ SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**🛠️ Hardware & Platforms**
+---
+
+**Hardware & Platforms**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -125,7 +126,9 @@ SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**🔐 Cybersecurity**
+---
+
+**Cybersecurity**
 
 ![CTF](https://img.shields.io/badge/CTF_Player-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -144,32 +147,32 @@ SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 ║  EDUCATION TIMELINE                                                  ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  [2016 ──────────────────────── 2025]  EXIT_CODE: 0 ✅              ║
+║  [2016 ──────────────────────── 2025]  EXIT_CODE: 0                  ║
 ║  Secondary School-Gymnasium No. 32                                   ║
 ║  Named after M. Kurmangaliyeva                                       ║
 ║  ├── Grades: 1st → 9th                                               ║
-║  ├── 🏆 Debate Club                                                  ║
-║  ├── 🤖 Robotics: LEGO Mindstorms EV3, Spike Prime, WEDO 2.0        ║
-║  └── 💻 Programming Olympiad                                         ║
+║  ├── Debate Club                                                     ║
+║  ├── Robotics: LEGO Mindstorms EV3, Spike Prime, WEDO 2.0            ║
+║  └── Programming Olympiad                                            ║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  [Jan 2025 ────────────── May 2027]  STATUS: RUNNING ⚡             ║
+║  [Jan 2025 ────────────── May 2027]  STATUS: RUNNING                 ║
 ║  Aqbobek International School (AIS)                                  ║
-║  ├── Grades: 9th → 11th  |  GPA: 4.7 / 5.00                        ║
-║  ├── 🎙️  Public Speaking                                             ║
-║  ├── ⚡  Electrical Engineering (Arduino)                            ║
-║  ├── 🔧  Embedded Software (Arduino, Raspberry Pi)                   ║
-║  └── 🚁  Drone Simulator: DCL, LiftOff                               ║
+║  ├── Grades: 9th → 11th  |  GPA: 4.7 / 5.00                          ║
+║  ├── Public Speaking                                                 ║
+║  ├── Electrical Engineering (Arduino)                                ║
+║  ├── Embedded Software (Arduino, Raspberry Pi)                       ║
+║  └── Drone Simulator: DCL, LiftOff                                   ║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  [2027 ──────────────────────── ???]  STATUS: PENDING 🎯            ║
+║  [2027 ──────────────────────── ???]  STATUS: PENDING                ║
 ║  Massachusetts Institute of Technology (MIT)                         ║
-║  ├── Target Major: Cybersecurity / CS                                ║
-║  ├── IELTS Target: 7.5+       [ ▓▓▓▓▓▓░░░░ ]  in progress          ║
-║  ├── SAT Target:   1500+      [ ▓▓▓▓▓░░░░░ ]  in progress          ║
-║  └── Portfolio:    STRONG     [ ▓▓▓▓░░░░░░ ]  building...           ║
+║  ├── Target Major: Cybersecurity                                     ║
+║  ├── IELTS Target: 7.5+       [ ▓▓▓▓▓▓░░░░ ]  in progress            ║
+║  ├── SAT Target:   1500+      [ ▓▓▓▓▓░░░░░ ]  in progress            ║
+║  └── Portfolio:               [ ▓▓▓▓░░░░░░ ]  building...            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -185,15 +188,15 @@ SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 ```
 PID    USER      %CPU  %MEM  PROCESS
 -----  --------  ----  ----  -----------------------------------------------
-1337   herachxx  99.9  HIGH  🔐 cybersecurity     [networks, vulns, CTF]
-1338   herachxx  85.0  HIGH  🚁 drone_operating   [DCL, LiftOff, Lua_prog]
-1339   herachxx  80.0  HIGH  🧮 comp_programming  [python, c++, olympiads]
-1340   herachxx  70.0  MED   ⚡ electronics       [soldering, arduino, rpi]
-1341   herachxx  60.0  MED   🔒 lockpicking       [hobby, legal, sport]
-1342   herachxx  55.0  MED   🧊 rubiks_cube       [speedcubing.init()]
-1343   herachxx  50.0  MED   🤹 juggling          [3_balls_minimum]
-1344   herachxx  45.0  MED   ∑  mathematics       [olympiad_mode=true]
-1345   herachxx  30.0  LOW   ✂️  papercraft_diy    [hands_on_mode]
+1337   herachxx  99.9  HIGH  cybersecurity     [networks, vulns, CTF]
+1338   herachxx  85.0  HIGH  drone_operating   [DCL, LiftOff, Lua_prog]
+1339   herachxx  80.0  HIGH  comp_programming  [python, c++, olympiads]
+1340   herachxx  70.0  MED   electronics       [soldering, arduino, rpi]
+1341   herachxx  60.0  MED   lockpicking       [hobby, legal, sport]
+1342   herachxx  55.0  MED   rubiks_cube       [speedcubing.init()]
+1343   herachxx  50.0  MED   juggling          [3_balls_minimum]
+1344   herachxx  45.0  MED   ∑mathematics      [olympiad_mode=true]
+1345   herachxx  30.0  LOW   papercraft_diy    [hands_on_mode]
 ```
 
 </div>
@@ -241,22 +244,22 @@ PID    USER      %CPU  %MEM  PROCESS
 ```
 total 4 projects
 
-drwxr-xr-x  herachxx  🌿 SteppeOS/
+drwxr-xr-x  herachxx  SteppeOS/
 │  AI-powered web app for managing cities & regions of Kazakhstan
 │  Because the Steppe deserves cutting-edge tech governance.
 └─ [JavaScript]  ★ city-tech  ★ AI  ★ regional-systems
 
-drwxr-xr-x  herachxx  🧊 ShelfLifeAI/
+drwxr-xr-x  herachxx  ShelfLifeAI/
 │  Smart fridge assistant — tracks products, prevents spoilage
 │  Never throw food away again. AI does the worrying for you.
 └─ [CSS / JS]  ★ AI  ★ smart-home  ★ sustainability
 
-drwxr-xr-x  herachxx  🏆 International-Scholars-Research-Competition/
+drwxr-xr-x  herachxx  International-Scholars-Research-Competition/
 │  Global platform recognizing outstanding student research
 │  Scholarship deserves visibility. Code gives it a stage.
 └─ [HTML]  ★ education  ★ research  ★ global
 
-drwxr-xr-x  herachxx  🌐 Aruzhan-Maratova/
+drwxr-xr-x  herachxx  Aruzhan-Maratova/
 │  Personal portfolio — handcrafted, unapologetically mine
 │  Where the code meets the person behind it.
 └─ [HTML]  ★ portfolio  ★ identity  ★ web
@@ -296,27 +299,27 @@ drwxr-xr-x  herachxx  🌐 Aruzhan-Maratova/
 ```
 ┌────────────────────────────────────────────────────────────────────┐
 │                                                                    │
-│  I'm 16. I live in Aktobe, Kazakhstan.                            │
-│  I go to AIS. I want to get into MIT.                             │
-│  And I'm building my way there, one commit at a time.             │
+│  I'm 16. I live in Aktobe, Kazakhstan.                             │
+│  I go to AIS. I want to get into MIT.                              │
+│  And I'm building my way there, one commit at a time.              │
 │                                                                    │
-│  I believe: the best hackers aren't criminals —                   │
-│  they're the ones who understand systems so deeply                │
-│  that they can protect them. I want to be that person.            │
+│  I believe: the best hackers aren't criminals —                    │
+│  they're the ones who understand systems so deeply                 │
+│  that they can protect them. I want to be that person.             │
 │                                                                    │
-│  My weapons of choice:                                            │
-│  → A keyboard and terminal that never sleeps.                     │
-│  → Curiosity that doesn't quit.                                   │
-│  → A Raspberry Pi that runs Kali at 2AM.                         │
-│  → A drone that goes where I point it.                            │
-│  → Hands that can solder, juggle, and pick locks.                 │
+│  My weapons of choice:                                             │
+│  → A keyboard and terminal that never sleeps.                      │
+│  → Curiosity that doesn't quit.                                    │
+│  → A Raspberry Pi that runs Kali at 2AM.                           │
+│  → A drone that goes where I point it.                             │
+│  → Hands that can solder, juggle, and pick locks.                  │
 │                                                                    │
-│  I don't wait for permission to learn.                            │
-│  I don't wait for the right moment to build.                      │
-│  I don't wait, period.                                            │
+│  I don't wait for permission to learn.                             │
+│  I don't wait for the right moment to build.                       │
+│  I don't wait, period.                                             │
 │                                                                    │
-│  The Steppe is wide. My ambitions are wider.                     │
-│  MIT — I'm coming. Don't close the door.  🚪                     │
+│  The Steppe is wide. My ambitions are wider.                       │
+│  MIT — I'm coming. Don't close the door.                           │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
@@ -357,21 +360,21 @@ Response time: usually < 24h  |  Timezone: UTC+5 (Aktobe, Kazakhstan)
 ```
  ╔══════════════════════════════════════════════════════════════╗
  ║                                                              ║
- ║   Hey — yes, you. I see you lurking. 👁️                      ║
+ ║   --> Hey - yes, you. I see you lurking.                     ║
  ║                                                              ║
- ║   Whether you're a recruiter, a fellow student,              ║
+ ║   --> Whether you're a recruiter, a fellow student,          ║
  ║   a future CTF teammate, or just someone who                 ║
- ║   got lost on the internet —                                 ║
+ ║   got lost on the internet - ...                             ║
  ║                                                              ║
- ║   Welcome. The terminal is warm here.                        ║
+ ║   --> Welcome. The terminal is warm here.                    ║
  ║                                                              ║
- ║   If something here catches your eye:                        ║
- ║   ⭐ Star it.  🍴 Fork it.  📬 Message me.                   ║
- ║   That's what all of this is for.                            ║
+ ║   --> If something here catches your eye:                    ║
+ ║   --> ⭐Star it.  🍴Fork it.  🗨️Message me.                --
+ ║   --> That's what all of this is for.                        ║
  ║                                                              ║
- ║   See you in the matrix. 🌐                                  ║
+ ║   --> See you in the matrix.                                 ║
  ║                                                              ║
- ║   — Aruzhan  ♡                                               ║
+ ║   --> Aruzhan ♡                                              -
  ║                                                              ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -389,7 +392,7 @@ Response time: usually < 24h  |  Timezone: UTC+5 (Aktobe, Kazakhstan)
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
   [ SESSION TERMINATED ]  ·  [ LOGS SAVED ]  ·  [ UPTIME: ∞ ]
-        Made with 💚, discipline & Kazakh stubbornness
+        Made with ❤️, discipline & Kazakh stubbornness
               from the Steppe, to the world 🌍
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
