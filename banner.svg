@@ -108,7 +108,7 @@
   <!-- BOTTOM BAR -->
   <rect x="0" y="262" width="860" height="1" fill="#00ff41" opacity="0.5"/>
   <rect x="0" y="263" width="860" height="37" fill="#0d1520"/>
-  <text x="130" y="285" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2a4a2a">[ CTF_PLAYER ] [ DRONE_PILOT ] [ LOCKPICKER ] [ SPEEDCUBER ] [ JUGGLER ] [ PAPERCRAFT ]</text>
+  <text x="130" y="285" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2a4a2a">[ CTF_PLAYER ] [ DRONE_PILOT ] [ LOCKPICKER ] [ SPEEDCUBER ]</text>
   <text x="730" y="285" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2a4a2a">v2027</text>
 
   <!-- OUTER BORDER -->
@@ -154,12 +154,12 @@
     </text>
 
     <text x="110" y="174" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ school    </tspan><tspan fill="#00ffaa">AIS · 10th grade · GPA 4.7 · 2027</tspan>
+      <tspan fill="#2a5a2a">▸ school    </tspan><tspan fill="#00ffaa">AIS · 10th grade · 2027</tspan>
       <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.2;0.3;0.4;0.5;1" dur="4s" fill="freeze"/>
     </text>
 
     <text x="110" y="191" fill="#00ff41">
-      <tspan fill="#2a5a2a">▸ weapons   </tspan><tspan fill="#00ffaa">Linux · C++ · Python · RaspberryPi</tspan>
+      <tspan fill="#2a5a2a">▸ weapons   </tspan><tspan fill="#00ffaa">Linux · C++ · Python</tspan>
       <animate attributeName="opacity" values="0;0;0;0;0;1;1" keyTimes="0;0.25;0.35;0.45;0.55;0.65;1" dur="4s" fill="freeze"/>
     </text>
 
