@@ -47,6 +47,8 @@ langs    : Kazakh (native) · Russian · English
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
 
+---
+
 ### [ CYBERSECURITY & NETWORKING ]
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=00FF41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
@@ -59,10 +61,14 @@ langs    : Kazakh (native) · Russian · English
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
 
+---
+
 ### [ HARDWARE & EMBEDDED ]
 ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
 ![Raspberry Pi 4](https://img.shields.io/badge/RPi_4B-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
 ![Soldering](https://img.shields.io/badge/Hardware-Soldering-0D1117?style=for-the-badge&logo=google-home&logoColor=00FF41)
+
+---
 
 ### [ COMPETITIVE ]
 ![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41)
