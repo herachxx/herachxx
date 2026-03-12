@@ -8,8 +8,6 @@
   <img src="https://raw.githubusercontent.com/herachxx/herachxx/main/banner.svg" width="100%" alt="herachxx — Aruzhan Maratova"/>
 </div>
 
----
-
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=herachxx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&include_all_commits=true&count_private=true"/>
 
 ```bash
@@ -81,7 +79,6 @@ langs    : Kazakh (native) · Russian · English
 
 </div>
 
----
 
 ```
 cybersec · drones · competitive programming · electronics
@@ -96,7 +93,8 @@ robotics · lockpicking · rubik's cube · ∑math · papercraft
 
 </div>
 
-```
-  hey — I am glad you stopped by. star something ⭐
+---
+<div align="center">
+  Hey! I am glad you stopped by. Star something ⭐
   --> herachxx ♡
-```
+</div>
