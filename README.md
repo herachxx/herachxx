@@ -71,7 +71,7 @@ langs    : Kazakh (native) · Russian · English
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herachxx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=aaffaa&langs_count=8"/>
 &nbsp;
-<img height="175" src="https://streak-stats.demolab.com?user=herachxx&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=aaffaa&dates=aaffaa"/>
+<img height="175" src="https://streak-stats.demolab.com?user=herachxx&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
 
 </div>
 
