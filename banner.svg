@@ -27,7 +27,7 @@
   <rect width="860" height="300" fill="#0a0e17"/>
   <rect width="860" height="300" fill="url(#grid)"/>
 
-  <!-- ── MATRIX RAIN COLUMNS ── -->
+  <!-- MATRIX RAIN COLUMNS -->
   <g clip-path="url(#clip)" font-family="'Courier New',Courier,monospace" font-size="11" fill="#00ff41">
 
     <!-- col 1 -->
@@ -86,11 +86,11 @@
     </g>
   </g>
 
-  <!-- Fade edges over matrix rain -->
+  <!-- fade edges over matrix rain -->
   <rect width="860" height="300" fill="url(#fadeL)"/>
   <rect width="860" height="300" fill="url(#fadeR)"/>
 
-  <!-- ── TOP BAR ── -->
+  <!-- TOP BAR -->
   <rect x="0" y="0" width="860" height="38" fill="#0d1520"/>
   <rect x="0" y="37" width="860" height="1" fill="#00ff41" opacity="0.5"/>
   <!-- macOS dots -->
@@ -98,52 +98,50 @@
   <circle cx="40" cy="19" r="6" fill="#febc2e"/>
   <circle cx="60" cy="19" r="6" fill="#28c840"/>
   <!-- title -->
-  <text x="430" y="24" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3a5a3a">herachxx@aktobe — bash — 860×300</text>
+  <text x="430" y="24" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3a5a3a">herachxx@aktobe - bash - 860×300</text>
   <!-- status dot -->
   <circle cx="820" cy="19" r="4" fill="#00ff41">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
   </circle>
   <text x="830" y="24" font-family="'Courier New',Courier,monospace" font-size="10" fill="#3a5a3a">LIVE</text>
 
-  <!-- ── BOTTOM BAR ── -->
+  <!-- BOTTOM BAR -->
   <rect x="0" y="262" width="860" height="1" fill="#00ff41" opacity="0.5"/>
   <rect x="0" y="263" width="860" height="37" fill="#0d1520"/>
-  <text x="130" y="285" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2a4a2a">[ CTF ] [ DRONE_PILOT ] [ LOCKPICKER ] [ SPEEDCUBER ] [ JUGGLER ] [ PAPERCRAFT ]</text>
+  <text x="130" y="285" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2a4a2a">[ CTF_PLAYER ] [ DRONE_PILOT ] [ LOCKPICKER ] [ SPEEDCUBER ] [ JUGGLER ] [ PAPERCRAFT ]</text>
   <text x="730" y="285" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2a4a2a">v2027</text>
 
-  <!-- ── OUTER BORDER ── -->
+  <!-- OUTER BORDER -->
   <rect x="1" y="1" width="858" height="298" fill="none" stroke="#00ff41" stroke-width="1.5" opacity="0.6"/>
 
-  <!-- ── VERTICAL DIVIDER ── -->
+  <!-- VERTICAL DIVIDER -->
   <line x1="570" y1="48" x2="570" y2="252" stroke="#00ff41" stroke-width="0.8" opacity="0.35"/>
 
-  <!-- ══════════════════════════════════════ -->
-  <!-- LEFT PANEL                            -->
-  <!-- ══════════════════════════════════════ -->
-
-  <!-- Prompt line -->
+  <!-- LEFT PANEL -->
+  
+  <!-- prompt line -->
   <text x="110" y="76" font-family="'Courier New',Courier,monospace" font-size="12" fill="#00ff41">┌─[<tspan fill="#00ffaa">herachxx</tspan><tspan fill="#00ff41">@aktobe</tspan>]─[~]</text>
   <text x="110" y="94" font-family="'Courier New',Courier,monospace" font-size="12" fill="#00ff41">└─$ </text>
 
   <!-- BIG NAME with glow -->
-  <text x="148" y="94" font-family="'Courier New',Courier,monospace" font-size="36" font-weight="bold" fill="#003308" filter="url(#glow)">ARUZHAN.EXE</text>
-  <text x="148" y="94" font-family="'Courier New',Courier,monospace" font-size="36" font-weight="bold" fill="#00ff41" filter="url(#glow)">ARUZHAN.EXE
+  <text x="148" y="94" font-family="'Courier New',Courier,monospace" font-size="36" font-weight="bold" fill="#003308" filter="url(#glow)">HERACH.EXE</text>
+  <text x="148" y="94" font-family="'Courier New',Courier,monospace" font-size="36" font-weight="bold" fill="#00ff41" filter="url(#glow)">HERACH.EXE
     <!-- glitch: shift X -->
     <animate attributeName="x" values="148;145;151;148;148;148;148;148;148;148" dur="7s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;1;1;1;1;1;1;0.7;1;1" dur="7s" repeatCount="indefinite"/>
   </text>
   <!-- glitch ghost -->
-  <text x="148" y="94" font-family="'Courier New',Courier,monospace" font-size="36" font-weight="bold" fill="#ff00ff" opacity="0">ARUZHAN.EXE
+  <text x="148" y="94" font-family="'Courier New',Courier,monospace" font-size="36" font-weight="bold" fill="#ff00ff" opacity="0">HERACH.EXE
     <animate attributeName="opacity" values="0;0;0;0;0;0;0;0.4;0;0" dur="7s" repeatCount="indefinite"/>
     <animate attributeName="x" values="148;148;148;148;148;148;148;153;148;148" dur="7s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Blinking cursor -->
+  <!-- blinking cursor -->
   <rect x="534" y="62" width="3" height="34" fill="#00ff41">
     <animate attributeName="opacity" values="1;1;1;0;0;0;1;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Info lines — staggered fade-in via opacity animate -->
+  <!-- info lines - staggered fade-in via opacity animate -->
   <g font-family="'Courier New',Courier,monospace" font-size="11.5" filter="url(#glow-sm)">
 
     <text x="110" y="118" fill="#00ff41">
@@ -167,7 +165,7 @@
     </text>
 
     <text x="110" y="190" fill="#00ff41" filter="url(#glow)">
-      <tspan fill="#2a5a2a">▸ target    </tspan><tspan fill="#00ff41">MIT — Cybersecurity — 2027 🎯</tspan>
+      <tspan fill="#2a5a2a">▸ target    </tspan><tspan fill="#00ff41">MIT — Cybersecurity — 2027 </tspan>
       <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;0.3;0.4;0.5;0.6;0.7;0.8;1" dur="4s" fill="freeze"/>
     </text>
 
@@ -178,9 +176,8 @@
 
   </g>
 
-  <!-- ══════════════════════════════════════ -->
-  <!-- RIGHT PANEL — skill bars             -->
-  <!-- ══════════════════════════════════════ -->
+  <!-- RIGHT PANEL — skill bars -->
+  
   <g font-family="'Courier New',Courier,monospace" font-size="10">
 
     <text x="590" y="72" fill="#1a4a1a" font-size="10">// SKILL MATRIX</text>
@@ -239,7 +236,7 @@
 
   </g>
 
-  <!-- Scanline overlay -->
+  <!-- scanline overlay -->
   <rect width="860" height="300" fill="none" opacity="0.04">
     <animate attributeName="y" values="0;300" dur="5s" repeatCount="indefinite"/>
   </rect>
