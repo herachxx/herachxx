@@ -58,14 +58,14 @@ langs    : Kazakh (native) · Russian · English
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
 
 ---
 
 ### [ HARDWARE & EMBEDDED ]
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
 ![Raspberry Pi 4](https://img.shields.io/badge/RPi_4B-0D1117?style=for-the-badge&logo=raspberry-pi&logoColor=00FF41)
-![Soldering](https://img.shields.io/badge/Hardware-Soldering-0D1117?style=for-the-badge&logo=google-home&logoColor=00FF41)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0D1117?style=for-the-badge&logo=autodesk&logoColor=00FF41)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=00FF41)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00FF41)
 
 ---
 
