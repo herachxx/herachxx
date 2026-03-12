@@ -30,8 +30,6 @@
 
 ## `$ whoami --full`
 
-<div align="center">
-
 ```yaml
 # /etc/herachxx/profile.yml
 # Last modified: 2025 | Classification: PUBLIC
@@ -80,7 +78,6 @@ fun_facts:
   - "I've soldered more things than I've broken. Probably."
 ```
 
-</div>
 
 ---
 
