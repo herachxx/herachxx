@@ -20,7 +20,7 @@
 <!-- ANIMATED TYPING BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Initializing+herachxx.exe...;Hello%2C+World.+I'm+Aruzhan+Maratova%F0%9F%91%BE;Vibe+coder+%F0%9F%92%A9+%7C+builder+%7C+dreamer;From+the+Kazakhstan+with+%E2%9D%A4%EF%B8%8F;I+turn+coffee+into+commits+%E2%98%95;Welcome+to+my+corner+of+the+internet...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Initializing+herachxx.exe...;Hello%2C+World.+I'm+Maratova+Aruzhan%F0%9F%91%BE;Vibe+coder+%F0%9F%92%A9+%7C+builder+%7C+dreamer;From+the+Kazakhstan+with+%E2%9D%A4%EF%B8%8F;I+turn+coffee+into+commits+%E2%98%95;Welcome+to+my+corner+of+the+internet...)](https://git.io/typing-svg)
 
 </div>
 
