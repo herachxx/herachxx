@@ -54,6 +54,7 @@ langs    : Kazakh (native) · Russian · English
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=00FF41)
 ![Tails OS](https://img.shields.io/badge/Tails_OS-0D1117?style=for-the-badge&logo=tails&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
@@ -104,17 +105,20 @@ robotics · lockpicking · rubik's cube · ∑math · papercraft
 ### Connect with me!
   
 <p align="center">
-  <a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
-  </a>
-  <a href="https://www.instagram.com/herachxx/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" />
-  </a>
-  
-  <img src="https://img.shields.io/badge/dynamic/json?label=VISITORS&query=value&url=https://api.countapi.xyz/hit/herachxx/visits&color=0D1117&labelColor=0D1117&style=for-the-badge&logo=eye&logoColor=00FF41" />
-</p>
 
-</div>
+<a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+<a href="https://www.instagram.com/herachxx/">
+<img src="https://img.shields.io/badge/Instagram-Follow-00FF41?style=for-the-badge&logo=instagram&logoColor=black">
+</a>
+
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=herachxx&style=for-the-badge&color=00FF41">
+
+</p>
 
 ---
 <div align="center">
