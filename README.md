@@ -183,8 +183,6 @@ SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 
 ## `$ ps aux | grep interests`
 
-<div align="center">
-
 ```
 PID    USER      %CPU  %MEM  PROCESS
 -----  --------  ----  ----  -----------------------------------------------
@@ -199,47 +197,40 @@ PID    USER      %CPU  %MEM  PROCESS
 1345   herachxx  30.0  LOW   papercraft_diy    [hands_on_mode]
 ```
 
-</div>
-
 ---
 
 ## `$ sudo cat /etc/achievements.conf`
 
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  ACHIEVEMENTS & ROLES UNLOCKED                                       ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  🏛️  [ROLE]  NSRI Director                                          ║
+║  🏛️  [ROLE]  NSRI Director                                           ║
 ║              National Students Research Institute                    ║
 ║              Promoted: School Ambassador → Director                  ║
 ║                                                                      ║
 ║  🚁  [COMP]  Drone Racing Simulations                                ║
-║              DCL: The Game | LiftOff Simulator                      ║
+║              DCL: The Game | LiftOff Simulator                       ║
 ║                                                                      ║
 ║  💻  [COMP]  Programming Olympiads (Multiple)                        ║
 ║              Languages: Python, C++                                  ║
 ║                                                                      ║
 ║  🤖  [COMP]  Robotics Competitions                                   ║
-║              LEGO EV3 | Spike Prime | WEDO 2.0                      ║
+║              LEGO EV3 | Spike Prime | WEDO 2.0                       ║
 ║                                                                      ║
 ║  🏆  [ACAD]  International Scholars Research Competition             ║
 ║              Global platform for outstanding student scholarship     ║
 ║                                                                      ║
-║  📊  [ACAD]  GPA: 4.7 / 5.00  ████████████████████░  Top Student   ║
+║  📊  [ACAD]  GPA: 4.7 / 5.00  ████████████████████░  Top Student     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 ---
 
 ## `$ ls -la ~/projects`
-
-<div align="center">
 
 ```
 total 4 projects
@@ -264,8 +255,6 @@ drwxr-xr-x  herachxx  Aruzhan-Maratova/
 │  Where the code meets the person behind it.
 └─ [HTML]  ★ portfolio  ★ identity  ★ web
 ```
-
-</div>
 
 ---
 
