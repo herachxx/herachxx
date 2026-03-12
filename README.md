@@ -78,12 +78,9 @@ fun_facts:
   - "I've soldered more things than I've broken. Probably."
 ```
 
-
 ---
 
 ## `$ nmap --scan-type SKILLS herachxx`
-
-<div align="center">
 
 ```
 PORT        STATE    SERVICE              VERSION
@@ -104,8 +101,6 @@ PORT        STATE    SERVICE              VERSION
 ------------------------------------------------------------------------
 SCAN COMPLETE — 13 services open, 0 filtered, 0 closed
 ```
-
-</div>
 
 <br>
 
