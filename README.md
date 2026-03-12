@@ -20,7 +20,7 @@
 <!-- ANIMATED TYPING BANNER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Initializing+aruzhan.exe...;Hello%2C+World.+I'm+Aruzhan+Maratova+%F0%9F%91%BE;Vibe+Coder+%F0%9F%92%A9+%7C+Builder+%7C+Dreamer;From+the+Kazakh+Steppe+with+%E2%9D%A4%EF%B8%8F;I+turn+coffee+into+commits+%E2%98%95;Welcome+to+my+corner+of+the+internet...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=Initializing+herachxx.exe...;Hello%2C+World.+I'm+Aruzhan+Maratova+%F0%9F%91%BE;Vibe+Coder+%F0%9F%92%A9+%7C+Builder+%7C+Dreamer;From+the+Kazakh+Steppe+with+%E2%9D%A4%EF%B8%8F;I+turn+coffee+into+commits+%E2%98%95;Welcome+to+my+corner+of+the+internet...)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,9 +42,9 @@
   "location"    : "Kazakhstan 🇰🇿 (Aqbobek Lyceum)",
   "status"      : "vibe coder 💩 || builder of things",
   "timezone"    : "UTC+5 (Aktobe)",
-  "languages"   : ["Kazakh 🇰🇿", "Russian 🇷🇺", "English 🇬🇧", "JavaScript 📜", "HTML/CSS 🎨"],
-  "interests"   : ["AI", "Web Dev", "Research", "City Systems", "Smart Apps"],
-  "currently"   : "Building things that matter ⚡",
+  "languages"   : ["Kazakh 🇰🇿", "Russian 🇷🇺", "English 🇬🇧"],
+  "interests"   : ["Research", "Cybersecurity", "WebDev", "AI"],
+  "currently"   : "Building things that matter",
   "fun_fact"    : "My code sometimes works on the first try. I'm scared too."
 }
 ```
@@ -61,19 +61,19 @@
 </div>
 
 ```
-drwxr-xr-x  aruzhan  🌿 SteppeOS
+drwxr-xr-x  aruzhan  SteppeOS
   └── AI-powered web app for managing cities & regions
-  └── [JavaScript] — because the steppe deserves smart tech
+  └── [JavaScript] — yes
 
-drwxr-xr-x  aruzhan  🧊 ShelfLifeAI  
+drwxr-xr-x  aruzhan  ShelfLifeAI  
   └── Never let your fridge betray you again
   └── [CSS/JS] — AI-powered fridge & shelf life management
 
-drwxr-xr-x  aruzhan  🏆 International-Scholars-Research-Competition
+drwxr-xr-x  aruzhan  International-Scholars-Research-Competition
   └── Global platform recognizing outstanding student research
   └── [HTML] — because scholarship deserves a stage
 
-drwxr-xr-x  aruzhan  🌐 Aruzhan-Maratova (Portfolio)
+drwxr-xr-x  aruzhan  Aruzhan-Maratova (Portfolio)
   └── The one place that's entirely, unapologetically me
   └── [HTML] — handcrafted with care
 ```
