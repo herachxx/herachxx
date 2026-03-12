@@ -37,21 +37,21 @@
 # Last modified: 2025 | Classification: PUBLIC
 
 identity:
-  name:         "Maratova Aruzhan"
-  alias:        "herachxx"
-  age:          16
-  nationality:  "Kazakhstani 🇰🇿"
-  location:     "Aktobe, Kazakhstan"
-  timezone:     "UTC+5"
+ name:           "Maratova Aruzhan"
+ alias:          "herachxx"
+ age:            16
+ nationality:    "Kazakhstani 🇰🇿"
+ location:       "Aktobe, Kazakhstan"
+ timezone:       "UTC+5"
 
 education:
-  current_school:   "AIS — Aqbobek International School"
-  grade:            "10th (Class of 2027)"
-  gpa:              "4.7 / 5.00  ██████████░  94%"
-  prev_school:      "Secondary School-Gymnasium No. 32 (2016–2025)"
-  goal:             "MIT — Massachusetts Institute of Technology 🎯"
-  major_target:     "Cybersecurity / Computer Science"
-  deadline:         "Admission cycle 2027"
+ current_school:   "AIS — Aqbobek International School"
+ grade:            "10th (Class of 2027)"
+ gpa:              "4.7 / 5.00  ██████████░  94%"
+ prev_school:      "Secondary School-Gymnasium No. 32 (2016–2025)"
+ goal:             "MIT — Massachusetts Institute of Technology"
+ major_target:     "Cybersecurity"
+ deadline:         "Admission cycle 2027"
 
 mission_objectives:
   - "IELTS ≥ 7.5       [ in progress... ]"
