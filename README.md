@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ethical+hacker+in+training+%F0%9F%94%90;CTF+player+%7C+drone+pilot+%7C+competitive+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ethical+hacker+in+training;CTF+player+%7C+drone+pilot+%7C+competitive+programmer)](https://git.io/typing-svg)
 
 </div>
 
