@@ -15,25 +15,35 @@
 └──╼ $ cat about.txt
 ```
 
-```yaml
-name     : Maratova Aruzhan
-age      : 16
-school   : AIS — Aqbobek International School
-grade    : 10th · Class of 2027
-gpa      : 4.7 / 5.0
-location : Aktobe, Kazakhstan 🇰🇿
-goal     : MIT · Cybersecurity
-roles    :
-  - Aspiring ethical hacker, CTF player
-  - Director at NSRI (National Student Research Institute)
-  - Drone pilot (80+ flight hours) - DCL · LiftOff
-  - Drone programmer (automation of UAV systems) - Lua · SITL · MAVLink
-  - Competitive programmer - Python · C++
-subjects : Informatics · Mathematics
-langs    : Kazakh (native) · Russian · English
-```
-
 <br clear="right"/>
+
+
+
+<div align="center">
+  <sample>
+   <b><a href="https://www.youtube.com/watch?v=DqbUqoeqhQw&list=RDDqbUqoeqhQw&start_radio=1">╔════════════════════════════════════════╗</a></b>
+  </sample>
+  <br>
+  <span>
+  <kbd>
+<div align="center">
+ <span>
+  <kbd>
+   <a href="https://connerwill.com"><kbd> &#x2748; <kbd> ☻ </kbd></kbd></a>
+   <a href="https://github.com/herachxx"><kbd> GitHub </kbd></a>
+   <a href="https://play.picoctf.org/users/herachxx"><kbd> PicoCTF </kbd></a>
+   <a href="https://github.com/herachxx?tab=repositories"><kbd> Repositories </kbd></a>
+   <a href="https://www.youtube.com/watch?v=DqbUqoeqhQw&list=RDDqbUqoeqhQw&start_radio=1"><kbd><kbd> &#x262C; </kbd> &#x26C0; </kbd></a>
+  </kbd>
+ </span>
+ <br>
+  <sample>
+   <b><a href="https://www.youtube.com/watch?v=DqbUqoeqhQw&list=RDDqbUqoeqhQw&start_radio=1">╚════════════════════════════════════════╝</a></b>
+  </sample>
+<br><br>
+</div>
+</div>
+
 
 ---
 
