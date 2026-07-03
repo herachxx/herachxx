@@ -8,10 +8,17 @@
   <img src="https://raw.githubusercontent.com/herachxx/herachxx/main/banner.svg" width="100%" alt="herachxx — Aruzhan Maratova"/>
 </div>
 
-```bash
-┌─[herachxx@aktobe]─[~]
-└──╼ $ cat about.txt
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
+    <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/herachxx?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-see%20the%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+  </a>
+  <a href="https://www.instagram.com/herachxx/">
+    <img src="https://img.shields.io/badge/Instagram-herachxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 <br clear="right"/>
 
@@ -78,11 +85,6 @@
 
 </div>
 
-
-```
-cybersec · drones · competitive programming · electronics
-robotics · lockpicking · rubik's cube · ∑math · papercraft
-```
 <div align="center">
   
 ### Connect with me!
