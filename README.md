@@ -63,9 +63,6 @@
 ### [ COMPETITIVE ]
 ![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41)
 ![picoCTF](https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logo=ctfd&logoColor=00FF41)
-![Bandit](https://img.shields.io/badge/OTW_Bandit-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41)
 
 </div>
 
