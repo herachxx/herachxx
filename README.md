@@ -1,102 +1,103 @@
-<h1 align="center">Aruzhan Maratova</h1>
-
 <p align="center">
-  <b>Cybersecurity learner | Competitive programmer | Drone and robotics builder</b>
-</p>
-
-<p align="center">
-  Aktobe, Kazakhstan | AIS Class of 2027 | Building across software, security, and physical systems
+  <img src="./banner.svg" alt="Aruzhan Maratova - security, systems, drones, algorithms" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/herachxx/">
-    <img src="https://img.shields.io/badge/Instagram-herachxx-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/herachxx?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-projects-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories"/>
+    <img src="https://img.shields.io/badge/GitHub-see%20the%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+  </a>
+  <a href="https://www.instagram.com/herachxx/">
+    <img src="https://img.shields.io/badge/Instagram-herachxx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 ---
 
-### Hi, I am Aruzhan.
+## I build where software meets the real world.
 
-I am a student and builder interested in how complex systems work: networks, secure applications, algorithms, electronics, drones, and robots. I like learning by building small things, breaking down hard concepts, and turning curiosity into projects that can be tested, improved, and shared.
+Hi, I am **Aruzhan Maratova** - a student from Aktobe, Kazakhstan, learning cybersecurity, competitive programming, drones, robotics, and embedded systems.
 
-Right now I am growing toward cybersecurity research and engineering. I practice in legal labs and CTF environments, study fundamentals, and build across both code and hardware because I want to understand systems end to end.
+I am early in the journey, but serious about the craft. I like systems that make you think from multiple layers at once: code, networks, hardware, behavior, risk, and product. My goal is to become the kind of engineer and researcher who can understand a system deeply, explain it clearly, and build something useful from that understanding.
+
+I practice security only in legal labs, CTFs, and educational environments.
 
 ---
 
-### Current direction
+## Current signals
 
-| Focus | What I am working on |
+| Signal | What it means |
 | --- | --- |
-| Security fundamentals | Linux, networking, web security, CTFs, ethical hacking labs, and responsible security practice. |
-| Software engineering | C++, Python, Kotlin, Lua, JavaScript, SQL, algorithms, and cleaner project structure. |
-| Physical systems | Raspberry Pi, ESP32, Arduino, Fusion 360, robotics ideas, drone experiments, and electronics. |
-| Research habits | Reading, documenting what I learn, asking better questions, and testing ideas carefully. |
+| Security mindset | I study Linux, networking, web security, CTFs, and responsible hacking habits. |
+| Builder range | I move between software, electronics, drones, robotics, and CAD instead of staying in one box. |
+| Problem-solving muscle | Competitive programming keeps my algorithms, debugging, and patience sharp. |
+| Research energy | I care about notes, writeups, experiments, and asking better questions. |
 
 ---
 
-### Why connect with me
+## What I am working on
 
-I am looking to meet people who care about building useful things and understanding systems deeply.
+- Turning CTF practice into cleaner notes, writeups, and small tools.
+- Strengthening C++, Python, Kotlin, JavaScript, SQL, and Linux fundamentals.
+- Building hardware experiments with Raspberry Pi, ESP32, Arduino, drones, and robotics.
+- Learning how great engineers, hackers, researchers, and founders think.
 
-| If you are... | I would like to connect about... |
+---
+
+## People I want to meet
+
+| You are... | Let's talk about... |
 | --- | --- |
-| A security researcher or ethical hacker | Learning paths, labs, tools, writeups, responsible disclosure, and research habits. |
-| A programmer or open-source builder | Practical projects, algorithms, code quality, documentation, and developer communities. |
-| A founder, CEO, or product person | How technical ideas become useful products, especially in education, security, robotics, drones, and developer tools. |
-| A student, maker, or CTF player | CTF practice, robotics, competitive programming, electronics, and learning in public. |
+| A hacker or security researcher | Labs, tooling, research habits, responsible disclosure, and real-world security thinking. |
+| A programmer or open-source builder | Algorithms, code quality, project ideas, developer tools, and shipping better work. |
+| A founder, CEO, or product person | Turning technical curiosity into useful products, especially in security, education, robotics, drones, and developer tools. |
+| A student, maker, or CTF player | Learning in public, CTFs, electronics, robotics, and staying consistent. |
 
 ---
 
-### Technical range
+## Toolbox
 
-| Category | Tools and topics |
-| --- | --- |
-| Languages | C++, Python, Kotlin, Lua, JavaScript, SQL |
-| Security | Linux, Bash, PowerShell, Nmap, Burp Suite, Wireshark, Metasploit, CTF labs |
-| Hardware | Raspberry Pi, ESP32, Arduino, Fusion 360, drones, robotics, electronics |
-| Practice | Codeforces, picoCTF, OverTheWire Bandit, Hack The Box, LeetCode |
-
----
-
-### What I value
-
-- Curiosity with discipline.
-- Ethical security work only.
-- Clear explanations and honest progress.
-- Small projects that teach real fundamentals.
-- Good questions, careful testing, and useful feedback.
+```text
+Languages      C++ / Python / Kotlin / Lua / JavaScript / SQL
+Security       Linux / Bash / PowerShell / Nmap / Burp Suite / Wireshark / Metasploit
+Hardware       Raspberry Pi / ESP32 / Arduino / Fusion 360 / drones / robotics
+Practice       Codeforces / picoCTF / OverTheWire Bandit / Hack The Box / LeetCode
+```
 
 ---
 
-### GitHub activity
+## How I want my work to feel
+
+- Curious, but not careless.
+- Ambitious, but honest.
+- Technical, but understandable.
+- Hacker-minded, but ethical.
+- Friendly enough to start a conversation.
+
+---
 
 <details>
-<summary>View language and activity cards</summary>
+<summary><b>GitHub activity</b></summary>
 <br/>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herachxx&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=herachxx&hide_border=true&theme=default" alt="GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herachxx&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=herachxx&hide_border=true&theme=transparent" alt="GitHub streak"/>
 </p>
+
 </details>
 
 ---
 
 <p align="center">
-  <b>If you work on security, research, software, drones, robotics, education, or developer tools, I would be glad to connect.</b>
+  <b>If you work on security, research, software, drones, robotics, education, or developer tools, I would be glad to meet you.</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">LinkedIn</a>
-  |
-  <a href="https://www.instagram.com/herachxx/">Instagram</a>
-  |
-  <a href="https://github.com/herachxx?tab=repositories">Repositories</a>
+  / <a href="https://github.com/herachxx?tab=repositories">Repositories</a>
+  / <a href="https://www.instagram.com/herachxx/">Instagram</a>
 </p>
 
