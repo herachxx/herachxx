@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/herachxx/herachxx/main/banner.svg" width="100%" alt="herachxx — Aruzhan Maratova"/>
+  <img src="https://raw.githubusercontent.com/herachxx/herachxx/main/banner.svg" width="100%" alt="herachxx - Aruzhan Maratova"/>
 </div>
+
+<br></br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
