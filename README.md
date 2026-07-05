@@ -85,27 +85,6 @@
 
 </div>
 
-<div align="center">
-  
-### Connect with me!
-  
-<p align="center">
-
-<a href="https://www.linkedin.com/in/aruzhan-maratova-2797aa361">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black">
-</a>
-
-<a href="https://www.instagram.com/herachxx/">
-<img src="https://img.shields.io/badge/Instagram-Follow-00FF41?style=for-the-badge&logo=instagram&logoColor=black">
-</a>
-
-</br>
-</br>
-
-<img src="https://komarev.com/ghpvc/?username=herachxx&style=for-the-badge&color=00FF41">
-
-</p>
-
 ---
 <div align="center">
   Hey! I am glad you stopped by. Star something ⭐
